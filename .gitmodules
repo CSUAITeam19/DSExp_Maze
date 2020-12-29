@@ -1,0 +1,9 @@
+[submodule "MazeAlgorithm"]
+	path = MazeAlgorithm
+	url = https://github.com/CSUAITeam19/MazeAlgorithm.git
+[submodule "MazeEditor"]
+	path = MazeEditor
+	url = https://github.com/CSUAITeam19/MazeEditor.git
+[submodule "MazeViewer"]
+	path = MazeViewer
+	url = https://github.com/CSUAITeam19/MazeViewer.git
